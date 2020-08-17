@@ -1,0 +1,2 @@
+Menu-driven C program for score-keeping of matches in a tournament. The tournament is held in a round-robin fashion wherein every team is made to be played with every other team.
+For every match of these types, the data for a particular team, including the runs by batsmen, wickets by bowler, man of the match is stored and calculated.
